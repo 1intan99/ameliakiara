@@ -1,4 +1,4 @@
-### Hi there, Tokisaki13 - aka [Tokisaki][https://tokisaki.xyz] 👋
+### Hi there, Tokisaki13 - aka [Tokisaki][website] 👋
 
 <br />
 
