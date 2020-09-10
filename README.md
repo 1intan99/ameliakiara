@@ -95,7 +95,7 @@
 </details>
 
 [website]: https://tokisaki.xyz
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/tokisaki
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
