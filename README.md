@@ -1,11 +1,9 @@
 ### Hi there, Tokisaki13 - aka [Tokisaki][website] 👋
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<p align="center">
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tokisaki13&show_icons=true&hide_border=true" />
-
-</details>
+</p>
 
 [website]: https://tokisaki.xyz
 [twitter]: https://twitter.com/tokisaki
@@ -17,6 +15,8 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
+<p align="center>
 <a href="https://github.com/Hell-Sec?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokisaki13&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokisaki13&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+</p>
