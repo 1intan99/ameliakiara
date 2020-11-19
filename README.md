@@ -1,7 +1,7 @@
-<p align="center"><strong>Hi there, Tokisaki13</strong> - aka [Tokisaki][website] 👋<p>
+<p align="center"><strong>Hi there, Tokisaki13</strong> - aka <a href="https://unwork.my.id">Tokisaki</a> 👋<p>
 
 <p align="center">
-  <imgalt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tokisaki13&show_icons=true&hide_border=true" />
+  <img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tokisaki13&show_icons=true&hide_border=true" />
 </p>
 
 [website]: https://tokisaki.xyz
