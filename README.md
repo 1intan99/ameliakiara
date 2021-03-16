@@ -22,7 +22,8 @@
 </p>
 <br>
 <br>
-<p align="center"><strong>Wakatime Status</strong></>
+<p align="center"><strong>Wakatime Status</strong></p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luminaluna" />
 </p>
 <br>
