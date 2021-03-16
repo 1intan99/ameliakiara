@@ -1,7 +1,7 @@
 <p align="center"><strong>Hi there, I'm Lumina Luna</strong> 👋<p>
 
 <p align="center">
-  <img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tokisaki13&show_icons=true&hide_border=true" />
+  <img alt="Lumina Luna Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=luminalunaa&show_icons=true&hide_border=true&theme=radical" />
 </p>
 
 [website]: https://tokisaki.xyz
