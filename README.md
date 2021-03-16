@@ -24,6 +24,7 @@
 <br>
 <p align="center"><strong>Wakatime Status</strong></>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luminaluna" />
+</p>
 <br>
 <br>
 <p align="center"><strong>My Discord</strong></p>
