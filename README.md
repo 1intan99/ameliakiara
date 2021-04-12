@@ -43,4 +43,5 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-MongoDB-4EAA25?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-VSCODE-FFFFFF?style=for-the-badge&logo=visual-studio-code&logoColor=0000FF" />
+  <img src="https://img.shields.io/badge/-TypeScript-0078D6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
 </p>
