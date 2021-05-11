@@ -26,7 +26,7 @@
  <table align="center">
    <td width="40%" valign="top">
      <h3 align="center">GitHub Trophy</h3>
-     <img src="https://github-profile-trophy.vercel.app/?username=luminalunaa&theme=monokai&column=7&no-frame=true">
+     <img src="https://github-profile-trophy.vercel.app/?username=ameliakiara&theme=monokai&column=7&no-frame=true">
    </td>
  </table>
  <table align="center">
