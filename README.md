@@ -6,7 +6,7 @@
 <table>
    <td width="40%" valign="top">
     <h3 align="center"> Waka Time</h3>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ameliakiara" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luminaluna" />
    </td>
    <td width="40%" valign="top">
     <h3 align="center"> GitHub Status<h3>
