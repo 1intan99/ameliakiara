@@ -1,16 +1,16 @@
 <h1 align="center"><strong>Hi there</strong> 👋<h2>
-  <img align="center" src="https://github.com/luminalunaa/luminalunaa/blob/master/assets/profile.gif">
+  <img align="center" src="https://github.com/ameliakiara/ameliakiara/blob/master/assets/profile.gif">
 
 <br>
 <br>
 <table>
    <td width="40%" valign="top">
     <h3 align="center"> Waka Time</h3>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luminaluna" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ameliakiara" />
    </td>
    <td width="40%" valign="top">
     <h3 align="center"> GitHub Status<h3>
-    <img alt="Lumina Luna Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=luminalunaa&show_icons=true&hide_border=true&theme=radical" />
+    <img alt="Kiara Amelia Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ameliakiara&show_icons=true&hide_border=true&theme=radical" />
    </td>
 </table>
 <table align="center">
