@@ -10,7 +10,7 @@
    </td>
    <td width="40%" valign="top">
     <h3 align="center"> GitHub Status<h3>
-    <img alt="Kiara Amelia Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ameliakiara&show_icons=true&hide_border=true&theme=radical" />
+    <img alt="Kiara Amelia Github Stats" src="https://github-readme-stats.vercel.app/api?username=ameliakiara&show_icons=true&hide_border=true&theme=radical" />
    </td>
 </table>
 <table align="center">
