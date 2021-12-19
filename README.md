@@ -20,7 +20,7 @@
   </td>
   <td width="40%" valign="top">
     <h3 align="center">Discord</h3>
-    <img src="https://discord.c99.nl/widget/theme-3/441958036362493962.png"/>
+    <img src=" https://discord.c99.nl/widget/theme-3/242969117479403520.png"/>
   </td>
 </table>
  <table align="center">
