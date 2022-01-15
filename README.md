@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hi there</strong> 👋<h2>
+<h1 align="center"><strong>Hi There</strong> 👋<h2>
   <img align="center" src="https://github.com/ameliakiara/ameliakiara/blob/master/assets/profile.gif">
 
 <br>
